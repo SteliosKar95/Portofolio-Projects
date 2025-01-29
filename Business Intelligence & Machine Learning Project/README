@@ -1,0 +1,8 @@
+Business Intelligence & Machine Learning Project
+
+Part 1:
+The objective of this part is to create a star model data warehouse from the Chinook OLTP database and create a sample report demonstrating the functionality of the data warehouse in combination with a data analysis and
+visualization tool such as Power BI.
+
+Part 2:
+The objective of this part is to analyze the sales performance of employees by extracting relevant data, preprocessing it and utilizing machine learning techniques to classify employees based on their sales performance.
